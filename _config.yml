@@ -1,0 +1,11 @@
+# Site settings
+title1: ""
+title2: "Workshop on Non-Binary Representation in Language Technologies"
+email: "" 
+baseurl: ""
+url1: ""
+url2: "http://nbreplangtech.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
