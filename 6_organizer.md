@@ -27,3 +27,5 @@ name: 6
 * Sharvani Jha - Microsoft Office, Queer in AI
 * Michael McKenna - Queer in AI
 * Julia Baylon - Facebook
+* Ana Marasović - Allen Institute for Artificial Intelligence
+
