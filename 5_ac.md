@@ -4,6 +4,8 @@ title: Accepted Papers
 permalink: /ac/
 name: 5
 ---
-### Accepted Papers
+<!-- ### Accepted Papers
 * *Title* 
-Authors 
+Authors  -->
+
+Queer in AI will subsidize/cover registration fees for authors of accepted papers.

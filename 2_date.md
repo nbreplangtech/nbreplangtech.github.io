@@ -5,4 +5,5 @@ permalink: /date/
 name: 2
 ---
 
-- Month Day, Year: Event
+<!-- - Month Day, Year: Event -->
+Coming soon!
